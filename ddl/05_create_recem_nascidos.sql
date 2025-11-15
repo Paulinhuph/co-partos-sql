@@ -4,4 +4,3 @@ CREATE TABLE recem_nascido (
     peso FLOAT NOT NULL,
     FOREIGN KEY (id_parto) REFERENCES partos(id_parto)
 );
-
