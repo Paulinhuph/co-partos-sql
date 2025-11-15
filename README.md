@@ -70,4 +70,4 @@ Estudante de Análise e Desenvolvimento de Sistemas
 
 ✔ Status do Projeto
 Em desenvolvimento ⚙️
-Novos scripts SQL serão adicionados conforme as próximas atividades da disciplina.
+
