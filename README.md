@@ -1,6 +1,6 @@
 # co-partos-sql
 Scripts SQL do projeto de banco de dados do Centro Obstétrico JJMS (Modelagem, DDL, DML e consultas).
-# 🏥 Sistema de Registro e Controle de Partos — Centro Obstétrico JJMS
+# 🏥 Sistema de Registro e Controle de Partos -> Centro Obstétrico JJMS
 Este repositório contém os scripts SQL desenvolvidos para o projeto de modelagem e implementação de um banco de dados voltado ao registro de partos, pacientes, médicos e recém-nascidos do Centro Obstétrico da Maternidade JJMS.
 O projeto faz parte das atividades práticas da disciplina de **Modelagem de Banco de Dados**, seguindo todas as etapas formais:
 
