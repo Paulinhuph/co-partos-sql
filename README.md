@@ -28,16 +28,16 @@ A organização recomendada dos arquivos é a seguinte:
 create_tables.sql
 constraints.sql
 
+/queries
+selects_basicos.sql
+joins.sql
+consulta
+
 /dml
 insert_pacientes.sql
 insert_medicos.sql
 insert_partos.sql
-insert_recem_nascido.sql
-
-/queries
-selects_basicos.sql
-joins.sql
-consultas_avancadas.sql
+insert_recem_nascido.sqls_avancadas.sql
 
 /updates
 updates.sql
@@ -52,17 +52,24 @@ deletes.sql
 - SQL (DDL, DML e consultas)
 - Git e GitHub para versionamento
   
-## 📥 Como Executar
-1. Instale o **MySQL 8.0** e o **MySQL Workbench**.
-2. Clone este repositório:
-   ```bash
-   git clone https://github.com/paulinhph/co-partos-sql.git
-Abra o create_tables.sql no Workbench.
-Execute os comandos na ordem:
-Criar tabelas
-Criar constraints
-Inserir dados (INSERT)
-Executar consultas
+## Como Executar o Projeto
+
+Criar o banco de dados
+CREATE DATABASE co_maternidade;
+USE co_maternidade;
+
+Executar os arquivos da pasta /ddl:
+create_tables.sql
+constraints.sql
+
+Executar os arquivos da pasta /dml:
+inserir pacientes
+inserir medicos
+inserir partos
+inserir recem_nascido
+
+Executar SELECTs da pasta /queries
+Executar UPDATEs e DELETEs
 
 📚 Autor
 Paulo Henrique Melo Ribeiro
