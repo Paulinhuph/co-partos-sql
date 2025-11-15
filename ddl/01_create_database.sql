@@ -1,3 +1,3 @@
-CREATE DATABASE centro_obstetrico;
-USE centro_obstetrico;
+CREATE DATABASE co_maternidade;
+USE co_maternidade;
 
