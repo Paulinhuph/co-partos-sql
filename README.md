@@ -67,6 +67,7 @@ Executar consultas
 📚 Autor
 Paulo Henrique Melo Ribeiro
 Estudante de Análise e Desenvolvimento de Sistemas
+TODOS OS EXEMPLOS UTILIZADOS SÂO TOTALMENTE FICTÍCIOS (Pacientes, CRM, entre outros...).
 
 ✔ Status do Projeto
 Em desenvolvimento ⚙️
